@@ -1,6 +1,6 @@
 # Food Delivery Website (Frontend)
 
-A responsive food delivery landing page built with HTML and CSS — featuring a hero banner, product listings, popular items with cart functionality, service highlights, and customer testimonials.
+A responsive food delivery landing page built with HTML and CSS — featuring a hero banner, product listings, popular items with cart functionality, service highlights and customer testimonials.
 
 ## 🔗 Live Demo
 
@@ -8,33 +8,24 @@ A responsive food delivery landing page built with HTML and CSS — featuring a 
 
 ## 📌 Overview
 
-A single-page frontend design for a fictional food delivery brand ("FOOD"), showcasing menu items, delivery service highlights, and customer engagement sections — built purely with HTML and CSS.
+A single-page frontend design for a fictional food delivery brand ("FOOD"), showcasing menu items, delivery service highlights and customer engagement sections — built purely with HTML, CSS and Javascript.
 
 ## ✨ Features
 
 - **Hero Section** — "Fastest Delivery in Your City" banner with an "Order Now" call-to-action
 - **Product Showcase** — Featured items (Pizza, Soup, Ice Cream, Pasta) with pricing
-- **Most Popular Items** — Grid of top items (Fried Rice, Hot Dogs, Dessert, Fish Fry, Laddu, Sandwich) with ratings, prices, and "Add to Cart" buttons
+- **Most Popular Items** — Grid of top items (Fried Rice, Hot Dogs, Dessert, Fish Fry, Laddu, Sandwich) with ratings, prices and "Add to Cart" buttons
 - **Why Choose Us** — Fast Delivery, Healthy & Fresh, Hygiene-focused service highlights
 - **Testimonials** — Customer feedback section
 - **Newsletter Subscription** — Email signup for offers and updates
-- **Opening Hours & Contact Info** — Restaurant timing, location, phone, and email
+- **Opening Hours & Contact Info** — Restaurant timing, location, phone and email
 - **Footer Navigation** — About Us, Contact Us, Order Delivery, Payment & Tax, Terms of Services
 
 ## 🛠️ Tech Stack
 
 - HTML
 - CSS
-
-## 📁 Repository Structure
-
-```
-.
-├── index.html      # Main page
-├── style.css       # Stylesheet
-├── images/         # Food images, icons, banners
-└── README.md
-```
+- Javascript
 
 ## ▶️ How to Run Locally
 
